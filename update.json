@@ -1,9 +1,9 @@
 {
-  "databaseVersion": 4,
+  "databaseVersion": 5,
   "databaseUrl": "https://github.com/MaruP-39/vokaraoke-updates/raw/refs/heads/main/vocaloid.db",
-  "sha256": "eeb543fa10ab4c2bb4e6b9fae3a6d22e31872d900401a42637088deddd87272d",
+  "sha256": "cb3c6f1a364a9f7737eb47d1b9f98bdfbc2849c1b52699e47f698f44ce5a0009",
   "notice": {
     "title": "보카노래방 업데이트",
-    "body": "온라인 곡 업데이트와 공지 기능을 적용했습니다. 앞으로는 새 데이터가 자동으로 반영됩니다."
+    "body": "3939"
   }
 }
