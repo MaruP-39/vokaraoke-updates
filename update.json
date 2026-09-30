@@ -7,10 +7,10 @@
     "body": "3939"
   },
   "appUpdate": {
-    "versionCode": 5,
-    "versionName": "1.1.3",
+    "versionCode": 6,
+    "versionName": "1.1.4",
     "apkUrl": "https://github.com/MaruP-39/vokaraoke-updates/raw/refs/heads/main/vokaraoke.apk",
-    "sha256": "9f69a707c2462d7d9b2d14a310694cf461a3a450a5c47505d434c7eadbc295e1",
-    "notes": "별칭 검색과 앱 업데이트 확인 기능을 추가했습니다. 설정에서 새 버전을 확인하고 다운로드 후 설치할 수 있습니다."
+    "sha256": "d4ff200a6b5ddb2118a078d53832988b7c62309388ca782e1607a599fe48319d",
+    "notes": "앱 용량을 약 92% 줄이고 반복 안내와 불필요한 확인창을 정리했습니다. 곡 검색·별칭·즐겨찾기·플레이리스트·차트·앱 업데이트는 유지됩니다."
   }
 }
