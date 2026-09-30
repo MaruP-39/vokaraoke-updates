@@ -1,6 +1,6 @@
 {
-  "databaseVersion": 2,
-  "databaseUrl": "https://raw.githubusercontent.com/MaruP-39/vokaraoke-updates/main/vocaloid.db",
+  "databaseVersion": 3,
+  "databaseUrl": "https://github.com/MaruP-39/vokaraoke-updates/raw/refs/heads/main/vocaloid.db",
   "sha256": "0501b14453fa5349a8a19d36b0dffe96bb2fecfb7d9e800d90789611e090bc00",
   "notice": {
     "title": "보카노래방 업데이트",
