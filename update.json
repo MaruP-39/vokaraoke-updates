@@ -1,9 +1,9 @@
 {
-  "databaseVersion": 1,
+  "databaseVersion": 2,
   "databaseUrl": "https://raw.githubusercontent.com/MaruP-39/vokaraoke-updates/main/vocaloid.db",
-  "sha256": "16f28fcc219f969873441ef39b12202725f9aea3a22e30fa37f252572308acb9",
+  "sha256": "0501b14453fa5349a8a19d36b0dffe96bb2fecfb7d9e800d90789611e090bc00",
   "notice": {
-    "title": "보카노래방에 오신 것을 환영해요",
-    "body": "최신 곡 데이터와 빠른 탐색 기능을 준비했습니다. 즐겨찾는 곡을 플레이리스트에 담아보세요."
+    "title": "보카노래방 업데이트",
+    "body": "온라인 곡 업데이트와 공지 기능을 적용했습니다. 앞으로는 새 데이터가 자동으로 반영됩니다."
   }
 }
