@@ -7,10 +7,10 @@
     "body": "3939"
   },
   "appUpdate": {
-    "versionCode": 6,
-    "versionName": "1.1.4",
+    "versionCode": 7,
+    "versionName": "1.1.5",
     "apkUrl": "https://github.com/MaruP-39/vokaraoke-updates/raw/refs/heads/main/vokaraoke.apk",
-    "sha256": "d4ff200a6b5ddb2118a078d53832988b7c62309388ca782e1607a599fe48319d",
-    "notes": "앱 용량을 약 92% 줄이고 반복 안내와 불필요한 확인창을 정리했습니다. 곡 검색·별칭·즐겨찾기·플레이리스트·차트·앱 업데이트는 유지됩니다."
+    "sha256": "152e54a42b001b8fcd8d6f03f43a61e9a75847d087409ac475691c66aaa6bc6c",
+    "notes": "노래방 번호 검색과 번호 복사, 검색 필터 초기화를 추가했습니다. 제목과 작곡가·가수를 구분해 가독성을 높이고, 띄어쓰기·일본어 표기 차이 검색과 가수 한글 표기를 개선했습니다."
   }
 }
