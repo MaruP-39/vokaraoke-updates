@@ -1,15 +1,15 @@
 {
-  "databaseVersion": 5,
-  "databaseUrl": "https://github.com/MaruP-39/vokaraoke-updates/raw/refs/heads/main/vocaloid.db",
-  "sha256": "cb3c6f1a364a9f7737eb47d1b9f98bdfbc2849c1b52699e47f698f44ce5a0009",
+  "databaseVersion": 6,
+  "databaseUrl": "https:\/\/github.com\/MaruP-39\/vokaraoke-updates\/raw\/refs\/heads\/main\/vocaloid.db",
+  "sha256": "8c8f08d3080169e10b877fe71872e115bea4305bbdfd846cf6273041484524d3",
   "notice": {
     "title": "보카노래방 업데이트",
-    "body": "3939"
+    "body": "10.15까지"
   },
   "appUpdate": {
     "versionCode": 7,
     "versionName": "1.1.5",
-    "apkUrl": "https://github.com/MaruP-39/vokaraoke-updates/raw/refs/heads/main/vokaraoke.apk",
+    "apkUrl": "https:\/\/github.com\/MaruP-39\/vokaraoke-updates\/raw\/refs\/heads\/main\/vokaraoke.apk",
     "sha256": "152e54a42b001b8fcd8d6f03f43a61e9a75847d087409ac475691c66aaa6bc6c",
     "notes": "노래방 번호 검색과 번호 복사, 검색 필터 초기화를 추가했습니다. 제목과 작곡가·가수를 구분해 가독성을 높이고, 띄어쓰기·일본어 표기 차이 검색과 가수 한글 표기를 개선했습니다."
   }
