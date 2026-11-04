@@ -1,15 +1,15 @@
 {
-  "databaseVersion": 6,
-  "databaseUrl": "https://github.com/MaruP-39/vokaraoke-updates/raw/refs/heads/main/vocaloid.db",
-  "sha256": "8c8f08d3080169e10b877fe71872e115bea4305bbdfd846cf6273041484524d3",
+  "databaseVersion": 7,
+  "databaseUrl": "https:\/\/github.com\/MaruP-39\/vokaraoke-updates\/raw\/refs\/heads\/main\/vocaloid.db",
+  "sha256": "75c332f85885fddb68b87b1cb5eb348c1bda596e981f1614025326c05225ab16",
   "notice": {
     "title": "보카노래방 업데이트",
-    "body": "10.15까지"
+    "body": "39"
   },
   "appUpdate": {
     "versionCode": 8,
     "versionName": "1.1.6",
-    "apkUrl": "https://github.com/MaruP-39/vokaraoke-updates/raw/refs/heads/main/vokaraoke.apk",
+    "apkUrl": "https:\/\/github.com\/MaruP-39\/vokaraoke-updates\/raw\/refs\/heads\/main\/vokaraoke.apk",
     "sha256": "77f28f87ea878aff05f04a538b381fc8522af12380387ece53636841692144de",
     "notes": "곡 업데이트 공지에 다시 알리지 않기를 추가했습니다. 설정의 곡 업데이트 내역에서 적용 날짜, 공지 내용, 추가·수정된 곡 수를 볼 수 있습니다."
   }
