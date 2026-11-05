@@ -1,15 +1,15 @@
 {
-  "databaseVersion": 9,
-  "databaseUrl": "https://github.com/MaruP-39/vokaraoke-updates/raw/refs/heads/main/vocaloid.db",
-  "sha256": "75c332f85885fddb68b87b1cb5eb348c1bda596e981f1614025326c05225ab16",
+  "databaseVersion": 10,
+  "databaseUrl": "https:\/\/github.com\/MaruP-39\/vokaraoke-updates\/raw\/refs\/heads\/main\/vocaloid.db",
+  "sha256": "9c20e4b7b33cf967115b0248d71c605fba2b8085b6ae6f9d09620f8f458fdf01",
   "notice": {
-    "title": "보카노래방 업데이트",
-    "body": "39"
+    "title": "보카노래방 업데이트 11.05",
+    "body": "사랑받지 못해도 네가 있어"
   },
   "appUpdate": {
     "versionCode": 9,
     "versionName": "1.1.7",
-    "apkUrl": "https://github.com/MaruP-39/vokaraoke-updates/raw/refs/heads/main/vokaraoke.apk",
+    "apkUrl": "https:\/\/github.com\/MaruP-39\/vokaraoke-updates\/raw\/refs\/heads\/main\/vokaraoke.apk",
     "sha256": "ed4ad527b419c02fe629c68be613c55685fc56217b63bd88ffff11db8344c413",
     "notes": "검색 중 뒤로가기로 검색어를 지울 수 있고, 홈에서 뒤로가면 종료 여부를 확인합니다. 공지 화면을 다듬고, 곡 업데이트 내역에는 신곡 추가만 표시합니다."
   }
