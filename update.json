@@ -1,15 +1,15 @@
 {
-  "databaseVersion": 10,
-  "databaseUrl": "https:\/\/github.com\/MaruP-39\/vokaraoke-updates\/raw\/refs\/heads\/main\/vocaloid.db",
-  "sha256": "9c20e4b7b33cf967115b0248d71c605fba2b8085b6ae6f9d09620f8f458fdf01",
+  "databaseVersion": 11,
+  "databaseUrl": "https://github.com/MaruP-39/vokaraoke-updates/raw/refs/heads/main/vocaloid.db",
+  "sha256": "39a67019388c8b7b1329373f6ca99d233e393e8506117b0c8d308b527e77c138",
   "notice": {
-    "title": "보카노래방 업데이트 11.05",
-    "body": "사랑받지 못해도 네가 있어"
+    "title": "공연 이력과 랜덤 선곡 업데이트",
+    "body": "보카노래방 1.2.0에서 랜덤 선곡과 발매·공개 연도별 분류를 이용해 보세요. 72곡의 공연 이력 168건과 243곡의 발매·공개일을 출처와 함께 보강했습니다. 불꽃·장산범 등 동음이의어 곡의 나무위키 연결도 개선했습니다. 새 기능은 설정에서 앱을 업데이트하면 사용할 수 있어요."
   },
   "appUpdate": {
     "versionCode": 9,
     "versionName": "1.1.7",
-    "apkUrl": "https:\/\/github.com\/MaruP-39\/vokaraoke-updates\/raw\/refs\/heads\/main\/vokaraoke.apk",
+    "apkUrl": "https://github.com/MaruP-39/vokaraoke-updates/raw/refs/heads/main/vokaraoke.apk",
     "sha256": "ed4ad527b419c02fe629c68be613c55685fc56217b63bd88ffff11db8344c413",
     "notes": "검색 중 뒤로가기로 검색어를 지울 수 있고, 홈에서 뒤로가면 종료 여부를 확인합니다. 공지 화면을 다듬고, 곡 업데이트 내역에는 신곡 추가만 표시합니다."
   }
