@@ -7,11 +7,11 @@
     "body": "보카노래방 1.2.0에서 랜덤 선곡과 발매·공개 연도별 분류를 이용해 보세요. 72곡의 공연 이력 168건과 243곡의 발매·공개일을 출처와 함께 보강했습니다. 불꽃·장산범 등 동음이의어 곡의 나무위키 연결도 개선했습니다. 새 기능은 설정에서 앱을 업데이트하면 사용할 수 있어요."
   },
   "appUpdate": {
-    "versionCode": 13,
-    "versionName": "1.2.3",
+    "versionCode": 14,
+    "versionName": "1.2.4",
     "apkUrl": "https://github.com/MaruP-39/vokaraoke-updates/raw/refs/heads/main/vokaraoke.apk",
-    "sha256": "b4a66690db677faf16788278d9e3865d867e2c2a3cce97bffd34906070062c96",
-    "notes": "곡 정보창을 새롭게 정리했습니다. 제목과 가수 정보를 분리하고 TJ·KY 번호를 큰 복사 카드로 표시합니다. 원곡·노래방 영상과 플레이리스트 버튼을 상단에 모았으며, 공연 이력과 내 태그를 구분해 보기 편하게 다듬었습니다."
+    "sha256": "dd37b3268c8d48c375381062c7ff7007ce06effb92802eb9e7087664a8f4e98d",
+    "notes": "곡 정보창에 오류 제보를 추가했습니다. 오류 종류와 수정 내용을 적으면 곡 제목·TJ/KY 번호가 자동으로 첨부된 GitHub 제보 페이지가 열립니다. 제보 내용 복사도 지원합니다. GitHub 로그인 후 최종 제출하며 제보는 공개됩니다."
   },
   "managerUpdate": {
     "versionCode": 3,
