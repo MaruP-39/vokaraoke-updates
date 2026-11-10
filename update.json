@@ -7,11 +7,11 @@
     "body": "전체 301곡을 점검해 나무위키 곡 문서 259개와 발매·공개일 48개를 추가했습니다. 동음이의어는 확인된 곡 문서로 연결하며 날짜는 표시된 가수·수록 버전을 대조했습니다. 근거가 충돌하거나 문서를 확인하지 못한 항목은 임의로 채우지 않았습니다. 앱 1.2.5에서는 번호 카드의 복사 안내 문구를 없앴습니다."
   },
   "appUpdate": {
-    "versionCode": 14,
-    "versionName": "1.2.4",
+    "versionCode": 15,
+    "versionName": "1.2.5",
     "apkUrl": "https://github.com/MaruP-39/vokaraoke-updates/raw/refs/heads/main/vokaraoke.apk",
-    "sha256": "dd37b3268c8d48c375381062c7ff7007ce06effb92802eb9e7087664a8f4e98d",
-    "notes": "곡 정보창에 오류 제보를 추가했습니다. 오류 종류와 수정 내용을 적으면 곡 제목·TJ/KY 번호가 자동으로 첨부된 GitHub 제보 페이지가 열립니다. 제보 내용 복사도 지원합니다. GitHub 로그인 후 최종 제출하며 제보는 공개됩니다."
+    "sha256": "60a931dbd35ec706ecb550cd4938b63117dc5ca0cc485a064d896b26f48885dc",
+    "notes": "나무위키 곡 문서 259개와 발매·공개일 48개를 보강했습니다. 번호 카드의 “눌러서 번호 복사” 안내 문구를 제거했습니다."
   },
   "managerUpdate": {
     "versionCode": 3,
