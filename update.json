@@ -1,22 +1,22 @@
 {
-  "databaseVersion": 12,
-  "databaseUrl": "https://github.com/MaruP-39/vokaraoke-updates/raw/refs/heads/main/vocaloid.db",
-  "sha256": "2dfd55bdda7d48cb2d913be1f376c58f80503f9d34f0e84479fc4dbf0dccc91e",
+  "databaseVersion": 13,
+  "databaseUrl": "https:\/\/github.com\/MaruP-39\/vokaraoke-updates\/raw\/refs\/heads\/main\/vocaloid.db",
+  "sha256": "2a8c7a0335b97784ceffed7808fc9550079b85732df6bc9fc2e1a8abe0323ebf",
   "notice": {
     "title": "곡 정보 보강 안내",
-    "body": "전체 301곡을 점검해 나무위키 곡 문서 259개와 발매·공개일 48개를 추가했습니다. 동음이의어는 확인된 곡 문서로 연결하며 날짜는 표시된 가수·수록 버전을 대조했습니다. 근거가 충돌하거나 문서를 확인하지 못한 항목은 임의로 채우지 않았습니다. 앱 1.2.5에서는 번호 카드의 복사 안내 문구를 없앴습니다."
+    "body": "미무카와 추가"
   },
   "appUpdate": {
     "versionCode": 15,
     "versionName": "1.2.5",
-    "apkUrl": "https://github.com/MaruP-39/vokaraoke-updates/raw/refs/heads/main/vokaraoke.apk",
+    "apkUrl": "https:\/\/github.com\/MaruP-39\/vokaraoke-updates\/raw\/refs\/heads\/main\/vokaraoke.apk",
     "sha256": "60a931dbd35ec706ecb550cd4938b63117dc5ca0cc485a064d896b26f48885dc",
     "notes": "나무위키 곡 문서 259개와 발매·공개일 48개를 보강했습니다. 번호 카드의 “눌러서 번호 복사” 안내 문구를 제거했습니다."
   },
   "managerUpdate": {
     "versionCode": 3,
     "versionName": "1.1.0",
-    "apkUrl": "https://github.com/MaruP-39/vokaraoke-updates/raw/refs/heads/main/vokaraoke-manager.apk",
+    "apkUrl": "https:\/\/github.com\/MaruP-39\/vokaraoke-updates\/raw\/refs\/heads\/main\/vokaraoke-manager.apk",
     "sha256": "dd08945cdc8b82c2c8611cfebd9a3d40d7d93c750fc9e055098cbebc2bdba862",
     "notes": "관리 앱 실행 시 새 버전을 자동으로 확인해 알려줍니다. 업데이트를 누르면 파일을 다운로드하고 검증한 뒤 설치 화면으로 연결합니다. 상단의 관리 앱 업데이트 버튼으로 직접 확인할 수도 있습니다. 작성 중인 곡과 GitHub 연결 정보는 유지됩니다."
   }
