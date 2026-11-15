@@ -7,11 +7,11 @@
     "body": "바다의 노래 · 유쾌한 우주인의 인류멸망 · 고독의 괴물을 추가했어요.\nI'm not a hero의 나무위키 문서 연결을 보완했어요."
   },
   "appUpdate": {
-    "versionCode": 15,
-    "versionName": "1.2.5",
+    "versionCode": 16,
+    "versionName": "1.2.6",
     "apkUrl": "https://github.com/MaruP-39/vokaraoke-updates/raw/refs/heads/main/vokaraoke.apk",
-    "sha256": "60a931dbd35ec706ecb550cd4938b63117dc5ca0cc485a064d896b26f48885dc",
-    "notes": "나무위키 곡 문서 259개와 발매·공개일 48개를 보강했습니다. 번호 카드의 “눌러서 번호 복사” 안내 문구를 제거했습니다."
+    "sha256": "72bd2f68a156e3aaf59967096da5c7a145199e92c4d3e2bf7b5fa02886db8b0e",
+    "notes": "설정에서 앱 아이콘을 미쿠·민트·다크로 바꿀 수 있어요. 선택한 아이콘은 앱을 다시 실행하거나 업데이트해도 유지돼요."
   },
   "managerUpdate": {
     "versionCode": 3,
