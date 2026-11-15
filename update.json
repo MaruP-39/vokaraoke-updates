@@ -7,11 +7,11 @@
     "body": "바다의 노래 · 유쾌한 우주인의 인류멸망 · 고독의 괴물을 추가했어요.\nI'm not a hero의 나무위키 문서 연결을 보완했어요."
   },
   "appUpdate": {
-    "versionCode": 16,
-    "versionName": "1.2.6",
+    "versionCode": 17,
+    "versionName": "1.2.7",
     "apkUrl": "https://github.com/MaruP-39/vokaraoke-updates/raw/refs/heads/main/vokaraoke.apk",
-    "sha256": "72bd2f68a156e3aaf59967096da5c7a145199e92c4d3e2bf7b5fa02886db8b0e",
-    "notes": "설정에서 앱 아이콘을 미쿠·민트·다크로 바꿀 수 있어요. 선택한 아이콘은 앱을 다시 실행하거나 업데이트해도 유지돼요."
+    "sha256": "5768fa46e7b8186acd51d95132ec224b93e47df23a7ce9310709a3970593fe4f",
+    "notes": "설정에서 보카로만 / J-POP 전체를 선택할 수 있어요. TJ 공식 일본곡 6,672개 번호를 반영했으며, 기존 한국어 보카로 곡까지 총 6,698곡을 볼 수 있어요. 가수·작곡가 선택창 검색과 대규모 곡 검색 속도를 개선했어요."
   },
   "managerUpdate": {
     "versionCode": 3,
